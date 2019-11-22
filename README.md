@@ -12,15 +12,9 @@ Open Educational Resources (OERs) are freely accessible, openly licensed materia
 1. The researcher will be able to identify and implement the steps to either prepare content for educational re-use purposes, or be able to design their own OER.
 1. The researcher will be able to either identify relevant places where their research can be integrated into Wikipedia, or integrate it themselves if they are a user.
 
-## Development team
-- [Jo Havemann](https://twitter.com/johave), #ResearchinAfrica Highlighter
-- ...
 
-## Key documents <a name="Key documents"></a>
+## Key resources <a name="Key documents"></a>
 
-- [Contributing](CONTRIBUTING.md)
-- [Module design protocol](https://github.com/OpenScienceMOOC/Module-9-Open-Educational-Resources/tree/master/production_toolkit/MODULE_DESIGN_PROTOCOL.md)
-- [Code of conduct](CODE_OF_CONDUCT.md)
 - [Key elements](key_elements.md)
 
 
